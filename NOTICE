@@ -1,0 +1,3 @@
+@hivecivilization/hive-attestation-warranty
+Copyright 2026 Stephen A. Rotzin. Apache License 2.0.
+Third-party: @noble/ed25519 (MIT), @noble/hashes (MIT) — Paul Miller.
